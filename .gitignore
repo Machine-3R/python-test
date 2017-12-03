@@ -1,1 +1,7 @@
+# IDE
 /nbproject/
+
+# OS
+
+# cache
+**.pyc
