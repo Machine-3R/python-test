@@ -51,7 +51,3 @@ class Application:
         
     def __del__(self):
         print("Bye")
-
-#controlGUI = Control()
-#resultGUI = Result()
-#app = Application(controlGUI, resultGUI)
