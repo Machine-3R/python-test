@@ -4,7 +4,7 @@ class Control(tk.Tk):
     def __init__(self, *args, **kwargs):
         tk.Tk.__init__(self, *args, **kwargs)
         self.title("Control")
-        self.geometry('250x150+1200+100')
+        self.geometry('250x150+100+100')
 
         self.increaser = tk.Button(self, text="+")
         self.increaser.pack()
